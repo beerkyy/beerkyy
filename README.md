@@ -1,18 +1,19 @@
 <h1 align="center">👋 Hi, I'm Berk Yılmaz</h1>
 
 <p align="center">
-  🎓 M.S. Electrical Engineering @ Columbia Univ. | B.S. Dual Degree @ NJIT (Magna Cum Laude) & ITU  
-  🔋 Focused on Energy-Efficient AI & Embedded Machine Learning
+      M.S. Electrical Engineering (Data-Driven Analysis and Computation) @ Columbia University<br>
+      B.S. Electrical Engineering @ NJIT (Magna Cum Laude) & Electronics and Communication @ ITU<br>
+      Focused on AI, Edge Computing, and Embedded Machine Learning and Hardware/AI Integration
 </p>
 
 <p align="center">
-  🌐 <a href="https://berkyilmaz.info">Personal Website</a> • 📧 Email: info@berkyilmaz.com.tr • 💼 <a href="https://linkedin.com/in/berkyy">LinkedIn</a>
+  🌐 <a href="https://berkyilmaz.info">Personal Website</a> • 📧 Email: berkyilmazcs@gmail.com • 💼 <a href="https://linkedin.com/in/berkyy">LinkedIn</a>
 </p>
 
 ---
 
 ### 🛠️ Skills & Tools
-- **Languages**: Python, C++, MATLAB, SQL, R
+- **Languages**: Python, C++, MATLAB, SQL, R, HTML, CSS
 - **AI/ML**: PyTorch, TensorFlow, Keras, Scikit‑Learn, NumPy, Pandas
 - **Embedded & Cloud**: NVIDIA Jetson, Apache Spark, Hadoop, Google Cloud, Linux
 - **Algorithms & Stats**: Signal Processing, FFT/DCT, Linear Algebra, Data Structures & Algorithms
