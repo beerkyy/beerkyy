@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Berk Yılmaz</h1>
 
 <p align="center">
-      M.S. Electrical Engineering (Data-Driven Analysis and Computation) @ Columbia University<br>
-      B.S. Electrical Engineering @ NJIT (Magna Cum Laude) & Electronics and Communication @ ITU<br>
+      M.S. Electrical Engineering (Data-Driven Analysis and Computation) @ Columbia University <br>
+      B.S. Electrical Engineering @ NJIT (Magna Cum Laude) & Electronics and Communication @ ITU (Valedictorian) <br>
       Focused on AI, Edge Computing, and Embedded Machine Learning and Hardware/AI Integration
 </p>
 
@@ -21,9 +21,9 @@
 ---
 
 ### 🎓 Education
-- **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation) :contentReference[oaicite:2]{index=2}  
-- **NJIT** – B.S. Electrical Engineering, Magna Cum Laude, GPA 3.82 :contentReference[oaicite:3]{index=3}  
-- **ITU** – B.S. Electronics & Communications (Top of Department), GPA 3.88 :contentReference[oaicite:4]{index=4}  
+- **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation) 
+- **NJIT** – B.S. Electrical Engineering, Magna Cum Laude,
+- **ITU** – B.S. Electronics & Communications (Top of Department)
 
 ---
 
