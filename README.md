@@ -20,6 +20,11 @@
 
 ---
 
+### 🔌 API Experience
+OpenAI · Hugging Face · SerpAPI · DuckDuckGo · Yahoo Finance (yfinance) ·  
+Apollo.io · Google Vision · Keepa · FastAPI · Redis · GitHub REST API · News API
+
+---
 ### 🎓 Education
 - **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation) 
 - **NJIT** – B.S. Electrical Engineering, Magna Cum Laude,
