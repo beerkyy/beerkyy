@@ -1,58 +1,76 @@
 <h1 align="center">👋 Hi, I'm Berk Yılmaz</h1>
 
 <p align="center">
-      M.S. Electrical Engineering (Data-Driven Analysis and Computation) @ Columbia University <br>
-      B.S. Electrical Engineering @ NJIT (Magna Cum Laude) & Electronics and Communication @ ITU (Valedictorian) <br>
-      Focused on AI, Edge Computing, and Embedded Machine Learning and Hardware/AI Integration
+  <strong>M.S. Electrical Engineering @ Columbia University</strong><br>
+  <em>Specialized in Data-Driven Analysis and Computation</em><br>
+  B.S. Electrical Engineering @ NJIT (Magna Cum Laude) & Electronics & Communications @ ITU (Valedictorian)<br>
+  <strong>AI Researcher | Embedded Systems Enthusiast | Edge Computing Innovator</strong>
 </p>
 
 <p align="center">
-  🌐 <a href="https://berkyilmaz.info">Personal Website</a> • 📧 Email: berkyilmazcs@gmail.com • 💼 <a href="https://linkedin.com/in/berkyy">LinkedIn</a>
+  🌐 <a href="https://berkyilmaz.info">Personal Website</a> • 📧 <a href="mailto:berkyilmazcs@gmail.com">Email</a> • 💼 <a href="https://linkedin.com/in/berkyy">LinkedIn</a>
 </p>
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Technical Skills
 - **Languages**: Python, C++, MATLAB, SQL, R, HTML, CSS
-- **AI/ML**: PyTorch, TensorFlow, Keras, Scikit‑Learn, NumPy, Pandas
-- **Embedded & Cloud**: NVIDIA Jetson, Apache Spark, Hadoop, Google Cloud, Linux
-- **Algorithms & Stats**: Signal Processing, FFT/DCT, Linear Algebra, Data Structures & Algorithms
+- **AI/ML Frameworks**: PyTorch, TensorFlow, Keras, Scikit‑Learn, NumPy, Pandas
+- **Embedded & Cloud Platforms**: NVIDIA Jetson, Google Cloud, Apache Spark, Hadoop, Linux
+- **Core Expertise**: Signal Processing, FFT/DCT, Linear Algebra, Edge AI, Data Structures & Algorithms
 
 ---
 
-### 🔌 API Experience
-OpenAI · Hugging Face · SerpAPI · DuckDuckGo · Yahoo Finance (yfinance) ·  
-Apollo.io · Google Vision · Keepa · FastAPI · Redis · GitHub REST API · News API
+### 🔌 API & Tooling Experience
+OpenAI · Hugging Face · SerpAPI · DuckDuckGo · Apollo.io · Google Vision · Keepa · yfinance · FastAPI · Redis · GitHub REST API · News API
 
 ---
+
 ### 🎓 Education
-- **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation) 
-- **NJIT** – B.S. Electrical Engineering, Magna Cum Laude,
-- **ITU** – B.S. Electronics & Communications (Top of Department)
+- 🎓 **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation)  
+- 🎓 **NJIT** – B.S. Electrical Engineering (Magna Cum Laude)  
+- 🎓 **ITU** – B.S. Electronics & Communications Engineering (Valedictorian)
 
 ---
 
-### 🚀 Experience & Key Projects
-- **ML/AI Research Assistant** @ NJIT (Apr 2021–Sep 2024): Worked on NLP, computer vision in CARLA sim, Jetson-based edge AI :contentReference[oaicite:5]{index=5}  
-- **Co-Founder** @ Space Construction Technologies (SpaceCO) (Sep 2023–May 2024): Developed cold‑welding coating for in‑space applications, won NASA NPWEE award, co‑founded with NASA engineers :contentReference[oaicite:6]{index=6}  
-- **Hardware Engineer Intern** @ ROKETSAN & TUBITAK BILGEM: PCB design and embedded systems  
-- **NASA Researcher** (L'SPACE NPWEE & MCA): Winner & researcher on NASA projects :contentReference[oaicite:7]{index=7}  
+### 🚀 Key Projects
 
-**Select Projects:**
-- **Energy-Efficient CNNs**: Integrated FFT/WHT in ResNet50; achieved +13% accuracy, 99.8% less energy use :contentReference[oaicite:8]{index=8}  
-- **PharMe (Pharma LLM)**: Fine-tuned Medical LLaMA-3-8B on FDA data with automated workflows :contentReference[oaicite:9]{index=9}  
-- **Glioma Grading ML**: Ensemble & hierarchical voting for cancer diagnosis :contentReference[oaicite:10]{index=10}  
-- **Through-the-Wall Radar**: UWB radar for human detection under rubble :contentReference[oaicite:11]{index=11}  
+#### 📊 Efficient Transformations in Deep Learning CNNs  
+Integrated FFT, DCT, and WHT into ResNet-50 to cut energy usage by **99.8%** and boost accuracy to **79%** on CIFAR-100.  
+<em>Tags:</em> ResNet-50 · WHT · Edge AI · Signal Processing
+
+#### 💊 PharMe: A Pharmaceutical-Informed LLM  
+Fine-tuned Medical LLaMA-3-8B on FDA datasets with Airflow-based pipelines. Outperformed GPT-Neo in condition-aware drug recommendations.  
+<em>Tags:</em> LLM · Healthcare AI · FDA APIs · Apache Airflow
+
+#### 🧠 Glioma Grading via Ensemble Learning  
+Built a robust glioma classification system using hierarchical voting, PCA, and SMOTE. Outperformed traditional LASSO-based methods.  
+<em>Tags:</em> Biomedical ML · Ensemble Methods · PCA · SMOTE
+
+#### 📡 Low-Cost Through-the-Wall Human Detection  
+Developed a UWB radar system to detect and localize humans through barriers for search-and-rescue missions.  
+<em>Tags:</em> UWB Radar · Signal Processing · Embedded Systems
+
+#### 🛰️ Removable Coating for In-Space Cold Welding  
+Co-created a NASA-awarded cold-welding coating for robotic spacecraft assembly in microgravity environments.  
+<em>Tags:</em> Space Materials · Cold Welding · NASA Collaboration
+
+#### 📶 Radar Clutter Simulation  
+Modeled clutter scenarios using rotating ground radar for defense applications in MATLAB.  
+<em>Tags:</em> Radar Systems · Signal Simulation · MATLAB
 
 ---
 
 ### 💭 About Me
-I’m passionate about **bridging electrical engineering and AI**—crafting intelligent systems that are energy-efficient and deployable on edge devices. In my free time, I enjoy **competitive programming**, **photography**, and **cinema**.
+I'm passionate about blending **AI with hardware**, creating **deployable, energy-efficient intelligent systems** for edge and embedded platforms.  
+Outside of tech, I enjoy **competitive programming**, **cinematography**, and exploring the intersection of science and art.
 
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=beerkyy&show_icons=true&theme=github_dark" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerkyy&layout=compact&theme=github_dark" height="150" />
 </p>
+
