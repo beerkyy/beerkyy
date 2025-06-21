@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Berk Yılmaz</h1>
 
-<!--
-**beerkyy/beerkyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 M.S. Electrical Engineering @ Columbia Univ. | B.S. Dual Degree @ NJIT (Magna Cum Laude) & ITU  
+  🔋 Focused on Energy-Efficient AI & Embedded Machine Learning
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌐 <a href="https://berkyilmaz.info">Personal Website</a> • 📧 Email: info@berkyilmaz.com.tr • 💼 <a href="https://linkedin.com/in/berkyy">LinkedIn</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- **Languages**: Python, C++, MATLAB, SQL, R
+- **AI/ML**: PyTorch, TensorFlow, Keras, Scikit‑Learn, NumPy, Pandas
+- **Embedded & Cloud**: NVIDIA Jetson, Apache Spark, Hadoop, Google Cloud, Linux
+- **Algorithms & Stats**: Signal Processing, FFT/DCT, Linear Algebra, Data Structures & Algorithms
+
+---
+
+### 🎓 Education
+- **Columbia University** – M.S. Electrical Engineering (Data‑Driven Analysis & Computation) :contentReference[oaicite:2]{index=2}  
+- **NJIT** – B.S. Electrical Engineering, Magna Cum Laude, GPA 3.82 :contentReference[oaicite:3]{index=3}  
+- **ITU** – B.S. Electronics & Communications (Top of Department), GPA 3.88 :contentReference[oaicite:4]{index=4}  
+
+---
+
+### 🚀 Experience & Key Projects
+- **ML/AI Research Assistant** @ NJIT (Apr 2021–Sep 2024): Worked on NLP, computer vision in CARLA sim, Jetson-based edge AI :contentReference[oaicite:5]{index=5}  
+- **Co-Founder** @ Space Construction Technologies (SpaceCO) (Sep 2023–May 2024): Developed cold‑welding coating for in‑space applications, won NASA NPWEE award, co‑founded with NASA engineers :contentReference[oaicite:6]{index=6}  
+- **Hardware Engineer Intern** @ ROKETSAN & TUBITAK BILGEM: PCB design and embedded systems  
+- **NASA Researcher** (L'SPACE NPWEE & MCA): Winner & researcher on NASA projects :contentReference[oaicite:7]{index=7}  
+
+**Select Projects:**
+- **Energy-Efficient CNNs**: Integrated FFT/WHT in ResNet50; achieved +13% accuracy, 99.8% less energy use :contentReference[oaicite:8]{index=8}  
+- **PharMe (Pharma LLM)**: Fine-tuned Medical LLaMA-3-8B on FDA data with automated workflows :contentReference[oaicite:9]{index=9}  
+- **Glioma Grading ML**: Ensemble & hierarchical voting for cancer diagnosis :contentReference[oaicite:10]{index=10}  
+- **Through-the-Wall Radar**: UWB radar for human detection under rubble :contentReference[oaicite:11]{index=11}  
+
+---
+
+### 💭 About Me
+I’m passionate about **bridging electrical engineering and AI**—crafting intelligent systems that are energy-efficient and deployable on edge devices. In my free time, I enjoy **competitive programming**, **photography**, and **cinema**.
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beerkyy&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerkyy&layout=compact&theme=github_dark" height="150" />
+</p>
