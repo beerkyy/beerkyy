@@ -67,10 +67,3 @@ Outside of tech, I enjoy **competitive programming**, **cinematography**, and ex
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beerkyy&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beerkyy&layout=compact&theme=github_dark" height="150" />
-</p>
-
