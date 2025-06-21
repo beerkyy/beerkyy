@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Berk Yılmaz</h1>
+<h1 align="center">👋 Hello, I'm Berk Yilmaz</h1>
 
 <p align="center">
   <strong>M.S. Electrical Engineering @ Columbia University</strong><br>
