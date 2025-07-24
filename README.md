@@ -60,9 +60,12 @@ Modeled clutter scenarios using rotating ground radar for defense applications i
 <em>Tags:</em> Radar Systems · Signal Simulation · MATLAB
 
 ---
-
 ### 💭 About Me
 I'm passionate about blending **AI with hardware**, creating **deployable, energy-efficient intelligent systems** for edge and embedded platforms.  
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/657beb59-60e9-45e2-bd23-f83d29085d09/thumbnail" >
+</p>
 Outside of tech, I enjoy **competitive programming**, **cinematography**, and exploring the intersection of science and art.
 
 ---
